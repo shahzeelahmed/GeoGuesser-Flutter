@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5889685606",
+    "project_id": "geogssr-9a43c",
+    "storage_bucket": "geogssr-9a43c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5889685606:android:ac36d8fa2f8618f34195a7",
+        "android_client_info": {
+          "package_name": "com.example.geo_guessr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8G6fAKC_F8x-ecaiNT4o7F_M-nyp01vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
